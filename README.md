@@ -1,5 +1,5 @@
 # ubuntukiller
-* Go to -> https://killercoda.com/git/scenario/a-playground
+* Go to -> https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-21-finalTest
 ```
 git clone https://github.com/a2nk/ubuntukiller
 ```
